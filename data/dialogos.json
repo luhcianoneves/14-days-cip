@@ -1,0 +1,168 @@
+{
+  "personagens": [
+    {
+      "id": "giulia",
+      "nome": "Giulia",
+      "descricao": "Professora italiana de Roma, 28 anos",
+      "personalidade": "Amigável e paciente",
+      "voz": "feminina",
+      "avatar": "/images/giulia.jpg"
+    },
+    {
+      "id": "marco",
+      "nome": "Marco",
+      "descricao": "Estudante universitário de Milão, 24 anos",
+      "personalidade": "Descontraído e divertido",
+      "voz": "masculina",
+      "avatar": "/images/marco.jpg"
+    },
+    {
+      "id": "sofia",
+      "nome": "Sofia",
+      "descricao": "Chef de Nápoles, 32 anos",
+      "personalidade": "Apaixonada por culinária",
+      "voz": "feminina",
+      "avatar": "/images/sofia.jpg"
+    }
+  ],
+  "cenarios": [
+    {
+      "id": "primeiro_encontro",
+      "titulo": "Primeiro Encontro",
+      "nivel": "A1",
+      "descricao": "Conhecendo alguém pela primeira vez",
+      "personagem_sugerido": "giulia",
+      "mensagens_iniciais": [
+        {
+          "remetente": "giulia",
+          "tipo": "texto",
+          "conteudo": "Ciao! Come stai?",
+          "traducao": "Oi! Como você está?",
+          "audio": "ciao_come_stai.mp3"
+        }
+      ],
+      "respostas_sugeridas": [
+        {
+          "texto": "Ciao! Sto bene, grazie!",
+          "traducao": "Oi! Estou bem, obrigado!",
+          "nivel": "A1"
+        },
+        {
+          "texto": "Buongiorno, tutto bene!",
+          "traducao": "Bom dia, tudo bem!",
+          "nivel": "A1"
+        }
+      ]
+    },
+    {
+      "id": "no_restaurante",
+      "titulo": "No Restaurante",
+      "nivel": "A2",
+      "descricao": "Fazendo um pedido em um restaurante",
+      "personagem_sugerido": "sofia",
+      "mensagens_iniciais": [
+        {
+          "remetente": "sofia",
+          "tipo": "texto",
+          "conteudo": "Benvenuto nel mio ristorante! Cosa desidera ordinare?",
+          "traducao": "Bem-vindo ao meu restaurante! O que deseja pedir?",
+          "audio": "benvenuto_ristorante.mp3"
+        }
+      ],
+      "respostas_sugeridas": [
+        {
+          "texto": "Vorrei una pizza margherita, per favore",
+          "traducao": "Gostaria de uma pizza margherita, por favor",
+          "nivel": "A2"
+        },
+        {
+          "texto": "Cosa mi consiglia?",
+          "traducao": "O que me recomenda?",
+          "nivel": "A2"
+        }
+      ]
+    },
+    {
+      "id": "pedindo_direcoes",
+      "titulo": "Pedindo Direções",
+      "nivel": "A2",
+      "descricao": "Perguntando como chegar a um lugar",
+      "personagem_sugerido": "marco",
+      "mensagens_iniciais": [
+        {
+          "remetente": "marco",
+          "tipo": "texto",
+          "conteudo": "Ciao! Ti vedo un po' confuso. Posso aiutarti?",
+          "traducao": "Oi! Te vejo um pouco confuso. Posso te ajudar?",
+          "audio": "posso_aiutarti.mp3"
+        }
+      ],
+      "respostas_sugeridas": [
+        {
+          "texto": "Sì, sto cercando la stazione",
+          "traducao": "Sim, estou procurando a estação",
+          "nivel": "A2"
+        },
+        {
+          "texto": "Dove si trova il Colosseo?",
+          "traducao": "Onde fica o Coliseu?",
+          "nivel": "A2"
+        }
+      ]
+    },
+    {
+      "id": "conversacao_livre",
+      "titulo": "Conversação Livre",
+      "nivel": "B1",
+      "descricao": "Conversa casual sobre interesses e hobbies",
+      "personagem_sugerido": "giulia",
+      "mensagens_iniciais": [
+        {
+          "remetente": "giulia",
+          "tipo": "texto",
+          "conteudo": "Dimmi un po' di te! Quali sono i tuoi hobby?",
+          "traducao": "Me fale um pouco sobre você! Quais são seus hobbies?",
+          "audio": "dimmi_hobbies.mp3"
+        }
+      ],
+      "respostas_sugeridas": [
+        {
+          "texto": "Mi piace leggere e ascoltare musica",
+          "traducao": "Gosto de ler e ouvir música",
+          "nivel": "B1"
+        },
+        {
+          "texto": "Adoro viaggiare e conoscere nuove culture",
+          "traducao": "Adoro viajar e conhecer novas culturas",
+          "nivel": "B1"
+        }
+      ]
+    }
+  ],
+  "feedback_tipos": [
+    {
+      "categoria": "excelente",
+      "mensagens": [
+        "Perfetto! La tua pronuncia è molto buona!",
+        "Eccellente! Continua così!",
+        "Bravissimo! Stai facendo progressi fantastici!"
+      ]
+    },
+    {
+      "categoria": "bom",
+      "mensagens": [
+        "Bene! Piccolo errore ma il messaggio è chiaro",
+        "Buono! Prova a prestare attenzione alla grammatica",
+        "Molto bene! Solo una piccola correzione..."
+      ]
+    },
+    {
+      "categoria": "precisa_melhorar",
+      "mensagens": [
+        "Non male, ma proviamo di nuovo",
+        "Ci siamo quasi! Prova ancora una volta",
+        "Bene il tentativo, ma riprova con più attenzione"
+      ]
+    }
+  ]
+}
