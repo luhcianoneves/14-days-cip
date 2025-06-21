@@ -1,0 +1,114 @@
+{
+  "podcasts": [
+    {
+      "id": "coffee_break_italian",
+      "titulo": "Coffee Break Italian",
+      "descricao": "Lições bem estruturadas que misturam inglês e italiano, ideal para iniciantes",
+      "nivel": "A1-A2",
+      "url": "https://open.spotify.com/show/1KaPP6CtOFaEZGHp6n8hL8",
+      "duracao": "15-20 min",
+      "categoria": "Estruturado",
+      "atualizado": "2025-06-20"
+    },
+    {
+      "id": "italianpod101",
+      "titulo": "ItalianPod101",
+      "descricao": "Vasta gama de lições em áudio e vídeo, desde iniciante absoluto até avançado",
+      "nivel": "A1-C2",
+      "url": "https://www.italianpod101.com/",
+      "duracao": "10-30 min",
+      "categoria": "Completo",
+      "atualizado": "2025-06-21"
+    },
+    {
+      "id": "vou_aprender_italiano",
+      "titulo": "Vou Aprender Italiano",
+      "descricao": "Podcast em português e italiano, criado especialmente para brasileiros",
+      "nivel": "A1-B1",
+      "url": "https://podcasts.google.com/feed/italiano",
+      "duracao": "20-25 min",
+      "categoria": "Brasileiro",
+      "atualizado": "2025-06-19"
+    }
+  ],
+  "videos": [
+    {
+      "id": "learname",
+      "titulo": "LearnAmo",
+      "descricao": "Um dos canais mais completos, com videoaulas sobre gramática, vocabulário e cultura",
+      "nivel": "A2-C1",
+      "url": "https://www.youtube.com/c/LearnAmo",
+      "categoria": "Gramática",
+      "canal": "LearnAmo",
+      "atualizado": "2025-06-21"
+    },
+    {
+      "id": "lucrezia",
+      "titulo": "Learn Italian with Lucrezia",
+      "descricao": "Vlogs, aulas de gramática e vídeos sobre cultura italiana com fala clara",
+      "nivel": "A1-B2",
+      "url": "https://www.youtube.com/c/lucreziaoddone",
+      "categoria": "Cultura",
+      "canal": "Lucrezia Oddone",
+      "atualizado": "2025-06-20"
+    },
+    {
+      "id": "oneworld",
+      "titulo": "One World Italiano",
+      "descricao": "Aulas didáticas com Verónica, fala pausada e clara, ideal para iniciantes",
+      "nivel": "A1-A2",
+      "url": "https://www.youtube.com/c/OneworldItalianoVideoCorso",
+      "categoria": "Iniciante",
+      "canal": "OneWorld Italiano",
+      "atualizado": "2025-06-22"
+    }
+  ],
+  "musicas": [
+    {
+      "id": "piu_bella_cosa",
+      "artista": "Eros Ramazzotti",
+      "titulo": "Più Bella Cosa",
+      "descricao": "Balada clássica com refrão repetitivo e vocabulário simples",
+      "nivel": "A2",
+      "genero": "Balada",
+      "url": "https://www.youtube.com/watch?v=video1",
+      "letra_disponivel": true
+    },
+    {
+      "id": "la_solitudine",
+      "artista": "Laura Pausini",
+      "titulo": "La Solitudine",
+      "descricao": "Clássico com narrativa clara e emocional, facilita compreensão",
+      "nivel": "A2",
+      "genero": "Pop",
+      "url": "https://www.youtube.com/watch?v=video2",
+      "letra_disponivel": true
+    },
+    {
+      "id": "a_te",
+      "artista": "Jovanotti",
+      "titulo": "A Te",
+      "descricao": "Canção de amor com letra poética e ritmo que ajuda a fixar palavras",
+      "nivel": "B1",
+      "genero": "Pop",
+      "url": "https://www.youtube.com/watch?v=video3",
+      "letra_disponivel": true
+    },
+    {
+      "id": "sara_perche",
+      "artista": "Ricchi e Poveri",
+      "titulo": "Sarà perché ti amo",
+      "descricao": "Música animada e famosa, vocabulário simples e contagiante",
+      "nivel": "A1",
+      "genero": "Pop",
+      "url": "https://www.youtube.com/watch?v=video4",
+      "letra_disponivel": true
+    }
+  ],
+  "atualizacoes": {
+    "ultima_atualizacao": "2025-06-22",
+    "proxima_atualizacao": "2025-06-24",
+    "frequencia": "48 horas",
+    "novos_conteudos": 3
+  }
+}

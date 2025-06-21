@@ -1,0 +1,151 @@
+{
+  "dias": [
+    {
+      "dia": 1,
+      "tema": "Fundamentos - Saudações e Verbos Essere/Avere",
+      "nivel": "A1",
+      "exercicios": [
+        {
+          "id": 1,
+          "tipo": "multipla_escolha",
+          "pergunta": "Como se diz 'Bom dia' em italiano?",
+          "opcoes": ["Buonasera", "Buongiorno", "Buonanotte", "Ciao"],
+          "resposta_correta": 1,
+          "audio": "buongiorno.mp3"
+        },
+        {
+          "id": 2,
+          "tipo": "completar",
+          "pergunta": "Complete: Io ____ felice (Eu estou feliz)",
+          "opcoes": ["sono", "sei", "è", "siamo"],
+          "resposta_correta": 0,
+          "audio": "sono_felice.mp3"
+        },
+        {
+          "id": 3,
+          "tipo": "traducao",
+          "pergunta": "Traduza: 'Tu hai un libro'",
+          "opcoes": ["Você tem um livro", "Eu tenho um livro", "Ele tem um livro", "Nós temos um livro"],
+          "resposta_correta": 0,
+          "audio": "tu_hai_libro.mp3"
+        },
+        {
+          "id": 4,
+          "tipo": "audio",
+          "pergunta": "Ouça e repita: 'Piacere di conoscerti'",
+          "frase": "Piacere di conoscerti",
+          "traducao": "Prazer em conhecê-lo",
+          "audio": "piacere_conoscerti.mp3"
+        },
+        {
+          "id": 5,
+          "tipo": "multipla_escolha",
+          "pergunta": "Qual é a resposta correta para 'Grazie'?",
+          "opcoes": ["Ciao", "Prego", "Scusi", "Buongiorno"],
+          "resposta_correta": 1,
+          "audio": "prego.mp3"
+        }
+      ]
+    },
+    {
+      "dia": 2,
+      "tema": "Artigos e Apresentações",
+      "nivel": "A1",
+      "exercicios": [
+        {
+          "id": 6,
+          "tipo": "multipla_escolha",
+          "pergunta": "Qual artigo usar: '__ studente'",
+          "opcoes": ["il", "lo", "la", "l'"],
+          "resposta_correta": 1,
+          "audio": "lo_studente.mp3"
+        },
+        {
+          "id": 7,
+          "tipo": "completar",
+          "pergunta": "Mi chiamo Marco. E tu? Come ti ____?",
+          "opcoes": ["chiami", "chiamo", "chiama", "chiamano"],
+          "resposta_correta": 0,
+          "audio": "come_ti_chiami.mp3"
+        },
+        {
+          "id": 8,
+          "tipo": "traducao",
+          "pergunta": "Traduza: 'Sono di Roma'",
+          "opcoes": ["Eu sou de Roma", "Ele é de Roma", "Nós somos de Roma", "Você é de Roma"],
+          "resposta_correta": 0,
+          "audio": "sono_di_roma.mp3"
+        },
+        {
+          "id": 9,
+          "tipo": "audio",
+          "pergunta": "Ouça e repita: 'Di dove sei?'",
+          "frase": "Di dove sei?",
+          "traducao": "De onde você é?",
+          "audio": "di_dove_sei.mp3"
+        },
+        {
+          "id": 10,
+          "tipo": "multipla_escolha",
+          "pergunta": "Plural de 'casa':",
+          "opcoes": ["casi", "case", "casas", "casse"],
+          "resposta_correta": 1,
+          "audio": "le_case.mp3"
+        }
+      ]
+    },
+    {
+      "dia": 3,
+      "tema": "Adjetivos e Números",
+      "nivel": "A1",
+      "exercicios": [
+        {
+          "id": 11,
+          "tipo": "completar",
+          "pergunta": "Una casa ____ (bonita)",
+          "opcoes": ["bello", "bella", "belli", "belle"],
+          "resposta_correta": 1,
+          "audio": "casa_bella.mp3"
+        },
+        {
+          "id": 12,
+          "tipo": "multipla_escolha",
+          "pergunta": "Como se diz '15' em italiano?",
+          "opcoes": ["quindici", "quattordici", "sedici", "diciassette"],
+          "resposta_correta": 0,
+          "audio": "quindici.mp3"
+        },
+        {
+          "id": 13,
+          "tipo": "traducao",
+          "pergunta": "Traduza: 'Voglio un caffè'",
+          "opcoes": ["Quero um café", "Tenho um café", "Faço um café", "Bebo um café"],
+          "resposta_correta": 0,
+          "audio": "voglio_caffe.mp3"
+        },
+        {
+          "id": 14,
+          "tipo": "audio",
+          "pergunta": "Ouça e repita: 'Posso aiutarti'",
+          "frase": "Posso aiutarti",
+          "traducao": "Posso te ajudar",
+          "audio": "posso_aiutarti.mp3"
+        },
+        {
+          "id": 15,
+          "tipo": "completar",
+          "pergunta": "Tu ____ venire domani? (poder)",
+          "opcoes": ["posso", "puoi", "può", "possiamo"],
+          "resposta_correta": 1,
+          "audio": "puoi_venire.mp3"
+        }
+      ]
+    }
+  ],
+  "tipos_exercicio": {
+    "multipla_escolha": "Escolha a resposta correta",
+    "completar": "Complete a frase com a opção correta",
+    "traducao": "Escolha a tradução correta",
+    "audio": "Ouça o áudio e pratique a pronúncia"
+  }
+}

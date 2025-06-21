@@ -1,0 +1,61 @@
+[
+  {
+    "categoria": "Cumprimentos Básicos",
+    "expressoes": [
+      {"pt": "Oi / Tchau", "it": "Ciao", "contexto": "Informal, usado com amigos e família"},
+      {"pt": "Bom dia", "it": "Buongiorno", "contexto": "Formal/Informal, usado até o início da tarde"},
+      {"pt": "Boa tarde/noite", "it": "Buonasera", "contexto": "Formal/Informal, usado do fim da tarde em diante"},
+      {"pt": "Boa noite", "it": "Buonanotte", "contexto": "Usado apenas ao se despedir para ir dormir"},
+      {"pt": "Olá", "it": "Salve", "contexto": "Ligeiramente formal, ótimo para quando não se tem certeza do contexto"}
+    ]
+  },
+  {
+    "categoria": "Cortesia",
+    "expressoes": [
+      {"pt": "Obrigado(a)", "it": "Grazie", "contexto": "Universal"},
+      {"pt": "De nada", "it": "Prego", "contexto": "A resposta mais comum para 'Grazie'"},
+      {"pt": "Por favor", "it": "Per favore / Per piacere", "contexto": "Universal"},
+      {"pt": "Com licença / Desculpe-me", "it": "Scusi", "contexto": "Formal (para chamar a atenção ou pedir passagem)"},
+      {"pt": "Desculpe", "it": "Scusa", "contexto": "Informal (para chamar a atenção ou pedir passagem)"},
+      {"pt": "Prazer", "it": "Piacere", "contexto": "Usado ao conhecer alguém"}
+    ]
+  },
+  {
+    "categoria": "Apresentação",
+    "expressoes": [
+      {"pt": "Como você se chama?", "it": "Come ti chiami?", "contexto": "Informal"},
+      {"pt": "Como o(a) senhor(a) se chama?", "it": "Come si chiama?", "contexto": "Formal"},
+      {"pt": "Meu nome é...", "it": "Mi chiamo...", "contexto": "Resposta para a pergunta acima"},
+      {"pt": "De onde você é?", "it": "Di dove sei?", "contexto": "Informal"},
+      {"pt": "De onde o(a) senhor(a) é?", "it": "Di dov'è?", "contexto": "Formal"},
+      {"pt": "Eu sou de...", "it": "Sono di...", "contexto": "Ex: 'Sono di Roma'"},
+      {"pt": "Eu sou brasileiro(a)", "it": "Sono brasiliano(a)", "contexto": "Adapte para sua nacionalidade"}
+    ]
+  },
+  {
+    "categoria": "Dias da Semana",
+    "expressoes": [
+      {"pt": "Segunda-feira", "it": "Lunedì", "contexto": ""},
+      {"pt": "Terça-feira", "it": "Martedì", "contexto": ""},
+      {"pt": "Quarta-feira", "it": "Mercoledì", "contexto": ""},
+      {"pt": "Quinta-feira", "it": "Giovedì", "contexto": ""},
+      {"pt": "Sexta-feira", "it": "Venerdì", "contexto": ""},
+      {"pt": "Sábado", "it": "Sabato", "contexto": ""},
+      {"pt": "Domingo", "it": "Domenica", "contexto": ""}
+    ]
+  },
+  {
+    "categoria": "Advérbios de Tempo",
+    "expressoes": [
+      {"pt": "Hoje", "it": "Oggi", "contexto": ""},
+      {"pt": "Amanhã", "it": "Domani", "contexto": ""},
+      {"pt": "Ontem", "it": "Ieri", "contexto": ""},
+      {"pt": "Sempre", "it": "Sempre", "contexto": ""},
+      {"pt": "Nunca", "it": "Mai", "contexto": ""},
+      {"pt": "Frequentemente", "it": "Spesso", "contexto": ""},
+      {"pt": "Agora", "it": "Ora / Adesso", "contexto": ""},
+      {"pt": "Depois", "it": "Dopo", "contexto": ""},
+      {"pt": "Antes", "it": "Prima", "contexto": ""}
+    ]
+  }
+]

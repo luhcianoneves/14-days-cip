@@ -1,0 +1,194 @@
+{
+  "teste": {
+    "titulo": "Teste de Nivelamento - 14 DAYS CIP",
+    "descricao": "Este teste avalia seu nível atual de italiano (A1 a B1) em 20 perguntas progressivas.",
+    "instrucoes": "Responda todas as perguntas da melhor forma possível. O resultado determinará seu plano personalizado de estudos.",
+    "perguntas": [
+      {
+        "id": 1,
+        "nivel": "A1",
+        "tipo": "multipla_escolha",
+        "pergunta": "Qual é a tradução de 'Grazie'?",
+        "opcoes": ["Por favor", "Obrigado", "Desculpe", "Olá"],
+        "resposta_correta": 1,
+        "explicacao": "'Grazie' significa 'obrigado' em italiano."
+      },
+      {
+        "id": 2,
+        "nivel": "A1",
+        "tipo": "multipla_escolha",
+        "pergunta": "Como se diz 'Eu sou' em italiano?",
+        "opcoes": ["Io sei", "Tu sono", "Io sono", "Io ho"],
+        "resposta_correta": 2,
+        "explicacao": "A forma correta é 'Io sono' (eu sou/estou)."
+      },
+      {
+        "id": 3,
+        "nivel": "A1",
+        "tipo": "completar",
+        "pergunta": "Complete a frase: 'Mi chiamo Marco, e tu? Come ti ____?'",
+        "opcoes": ["chiami", "chiamo", "chiama", "chiamate"],
+        "resposta_correta": 0,
+        "explicacao": "'Come ti chiami?' significa 'Como você se chama?'."
+      },
+      {
+        "id": 4,
+        "nivel": "A1",
+        "tipo": "multipla_escolha",
+        "pergunta": "Qual artigo definido masculino singular usamos antes da palavra 'studente'?",
+        "opcoes": ["il", "l'", "i", "lo"],
+        "resposta_correta": 3,
+        "explicacao": "Usa-se 'lo' antes de palavras que começam com s+consoante."
+      },
+      {
+        "id": 5,
+        "nivel": "A1",
+        "tipo": "multipla_escolha",
+        "pergunta": "Qual é o plural de 'casa'?",
+        "opcoes": ["casi", "case", "casae", "casso"],
+        "resposta_correta": 1,
+        "explicacao": "O plural de 'casa' é 'case'."
+      },
+      {
+        "id": 6,
+        "nivel": "A1",
+        "tipo": "completar",
+        "pergunta": "'Loro ____ un libro.' Complete com o verbo 'avere'.",
+        "opcoes": ["hanno", "avete", "ho", "ha"],
+        "resposta_correta": 0,
+        "explicacao": "'Loro hanno' é a conjugação correta de 'avere' para 'eles/elas'."
+      },
+      {
+        "id": 7,
+        "nivel": "A1",
+        "tipo": "multipla_escolha",
+        "pergunta": "Qual opção significa 'Sexta-feira'?",
+        "opcoes": ["Martedì", "Giovedì", "Venerdì", "Mercoledì"],
+        "resposta_correta": 2,
+        "explicacao": "'Venerdì' significa sexta-feira."
+      },
+      {
+        "id": 8,
+        "nivel": "A1",
+        "tipo": "multipla_escolha",
+        "pergunta": "Como se diz 'Ir' em italiano?",
+        "opcoes": ["Stare", "Fare", "Andare", "Venire"],
+        "resposta_correta": 2,
+        "explicacao": "'Andare' significa 'ir'."
+      },
+      {
+        "id": 9,
+        "nivel": "A2",
+        "tipo": "completar",
+        "pergunta": "Complete a frase: 'Ieri, io ____ al cinema.' (Verbo Andare no Passato Prossimo)",
+        "opcoes": ["sono andato", "ho andato", "andavo", "vado"],
+        "resposta_correta": 0,
+        "explicacao": "O Passato Prossimo de 'andare' forma-se com 'essere': 'sono andato'."
+      },
+      {
+        "id": 10,
+        "nivel": "A2",
+        "tipo": "completar",
+        "pergunta": "'Noi ____ la pizza ogni domenica.' (Verbo Mangiare)",
+        "opcoes": ["mangio", "mangia", "mangiamo", "mangiano"],
+        "resposta_correta": 2,
+        "explicacao": "'Noi mangiamo' é a conjugação correta de 'mangiare' para 'nós'."
+      },
+      {
+        "id": 11,
+        "nivel": "A2",
+        "tipo": "multipla_escolha",
+        "pergunta": "Qual preposição completa a frase: 'Vado ____ Roma.'?",
+        "opcoes": ["di", "a", "da", "in"],
+        "resposta_correta": 1,
+        "explicacao": "Para indicar movimento a um lugar, usa-se 'a': 'Vado a Roma'."
+      },
+      {
+        "id": 12,
+        "nivel": "A2",
+        "tipo": "completar",
+        "pergunta": "'Non ____ mai stato in Italia.' (Verbo Essere)",
+        "opcoes": ["ho", "sei", "sono", "siamo"],
+        "resposta_correta": 2,
+        "explicacao": "'Non sono mai stato' significa 'nunca estive'."
+      },
+      {
+        "id": 13,
+        "nivel": "A2",
+        "tipo": "multipla_escolha",
+        "pergunta": "Qual é o oposto de 'spesso' (frequentemente)?",
+        "opcoes": ["sempre", "dopo", "mai", "prima"],
+        "resposta_correta": 2,
+        "explicacao": "'Mai' (nunca) é o oposto de 'spesso' (frequentemente)."
+      },
+      {
+        "id": 14,
+        "nivel": "A2",
+        "tipo": "completar",
+        "pergunta": "'Se ____ tempo, verrò alla festa.' (Verbo Avere no futuro)",
+        "opcoes": ["avrò", "avrò", "avremo", "avrete"],
+        "resposta_correta": 0,
+        "explicacao": "'Avrò' é o futuro de 'avere' na primeira pessoa do singular."
+      },
+      {
+        "id": 15,
+        "nivel": "A2",
+        "tipo": "traducao",
+        "pergunta": "Traduza: 'Ho comprato il pane e il latte.'",
+        "opcoes": ["Comprei pão e leite", "Compro pão e leite", "Vou comprar pão e leite", "Compraria pão e leite"],
+        "resposta_correta": 0,
+        "explicacao": "'Ho comprato' é o Passato Prossimo, indicando ação passada."
+      },
+      {
+        "id": 16,
+        "nivel": "B1",
+        "tipo": "completar",
+        "pergunta": "'Quando ero bambino, ____ sempre al parco.' (Verbo Andare no Imperfetto)",
+        "opcoes": ["andavo", "sono andato", "vado", "andrò"],
+        "resposta_correta": 0,
+        "explicacao": "O Imperfetto 'andavo' indica ação habitual no passado."
+      },
+      {
+        "id": 17,
+        "nivel": "B1",
+        "tipo": "multipla_escolha",
+        "pergunta": "Qual é o congiuntivo presente de 'essere' na terceira pessoa singular?",
+        "opcoes": ["è", "sia", "fosse", "sarà"],
+        "resposta_correta": 1,
+        "explicacao": "'Sia' é o congiuntivo presente de 'essere'."
+      },
+      {
+        "id": 18,
+        "nivel": "B1",
+        "tipo": "traducao",
+        "pergunta": "Traduza: 'Se fosse qui, ti aiuterebbe.'",
+        "opcoes": ["Se ele estivesse aqui, te ajudaria", "Se ele está aqui, te ajuda", "Se ele estiver aqui, te ajudará", "Se ele veio aqui, te ajudou"],
+        "resposta_correta": 0,
+        "explicacao": "Esta é uma frase condicional no congiuntivo imperfetto."
+      },
+      {
+        "id": 19,
+        "nivel": "B1",
+        "tipo": "completar",
+        "pergunta": "'Benché ____ stanco, continuerò a lavorare.' (Verbo Essere)",
+        "opcoes": ["sono", "sia", "ero", "fossi"],
+        "resposta_correta": 1,
+        "explicacao": "Após 'benché' usa-se o congiuntivo: 'benché sia'."
+      },
+      {
+        "id": 20,
+        "nivel": "B1",
+        "tipo": "traducao",
+        "pergunta": "Traduza: 'Credo che lui abbia ragione.'",
+        "opcoes": ["Acredito que ele tem razão", "Acredito que ele tenha razão", "Acredito que ele tinha razão", "Acredito que ele terá razão"],
+        "resposta_correta": 1,
+        "explicacao": "Após 'credo che' usa-se o congiuntivo presente."
+      }
+    ],
+    "niveis": {
+      "A1": {"minimo": 0, "maximo": 8, "descricao": "Iniciante"},
+      "A2": {"minimo": 9, "maximo": 15, "descricao": "Elementar"},
+      "B1": {"minimo": 16, "maximo": 20, "descricao": "Intermediário"}
+    }
+  }
+}
